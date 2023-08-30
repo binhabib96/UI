@@ -7,7 +7,7 @@ export default {
   "./resources/**/*.vue",
   "./node_modules/flowbite/**/*.js"],
   theme: {
-    extend: {},
+    extend: {'spin-slow': 'spin 3s linear infinite',},
   },
   plugins: ['flowbite/plugin'],
 }

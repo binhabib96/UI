@@ -8,6 +8,6 @@
     <div>@include('UI.table')</div>
     </body>
     
-    @vite('resources/js/app.css')
+    @vite('resources/js/app.js')
 
 </html>
